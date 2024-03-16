@@ -1,0 +1,284 @@
+[
+    {
+        "name": "Tackle",
+        "type": "Normal",
+        "category": "Physical",
+        "power": "50",
+        "accuracy": "95",
+        "maxPp": "35",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Water Gun",
+        "type": "Water",
+        "category": "Special",
+        "power": "40",
+        "accuracy": "100",
+        "maxPp": "25",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Wing Attack",
+        "type": "Flying",
+        "category": "Physical",
+        "power": "60",
+        "accuracy": "100",
+        "maxPp": "35",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Vine Whip",
+        "type": "Grass",
+        "category": "Physical",
+        "power": "45",
+        "accuracy": "100",
+        "maxPp": "30",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Strength",
+        "type": "Normal",
+        "category": "Physical",
+        "power": "80",
+        "accuracy": "100",
+        "maxPp": "15",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Slam",
+        "type": "Normal",
+        "category": "Physical",
+        "power": "80",
+        "accuracy": "75",
+        "maxPp": "20",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Scratch",
+        "type": "Normal",
+        "category": "Physical",
+        "power": "40",
+        "accuracy": "100",
+        "maxPp": "35",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Rock Throw",
+        "type": "Rock",
+        "category": "Physical",
+        "power": "50",
+        "accuracy": "90",
+        "maxPp": "15",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Pound",
+        "type": "Normal",
+        "category": "Physical",
+        "power": "40",
+        "accuracy": "100",
+        "maxPp": "35",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Peck",
+        "type": "Flying",
+        "category": "Physical",
+        "power": "35",
+        "accuracy": "100",
+        "maxPp": "35",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Mega Kick",
+        "type": "Normal",
+        "category": "Physical",
+        "power": "120",
+        "accuracy": "75",
+        "maxPp": "5",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Mega Punch",
+        "type": "Normal",
+        "category": "Physical",
+        "power": "80",
+        "accuracy": "85",
+        "maxPp": "20",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Hydro Pump",
+        "type": "Water",
+        "category": "Special",
+        "power": "110",
+        "accuracy": "80",
+        "maxPp": "5",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Horn Attack",
+        "type": "Normal",
+        "category": "Physical",
+        "power": "65",
+        "accuracy": "100",
+        "maxPp": "25",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Egg Bomb",
+        "type": "Normal",
+        "category": "Physical",
+        "power": "100",
+        "accuracy": "75",
+        "maxPp": "10",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Drill Peck",
+        "type": "Flying",
+        "category": "Physical",
+        "power": "80",
+        "accuracy": "100",
+        "maxPp": "20",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Cut",
+        "type": "Normal",
+        "category": "Physical",
+        "power": "50",
+        "accuracy": "95",
+        "maxPp": "30",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Absorb",   
+        "type": "Grass",
+        "category": "Special",
+        "power": "20",
+        "accuracy": "100",
+        "maxPp": "25",
+        "hasSpecialEffect": "True",
+        "specialEffectString": "absorb"
+    },
+    {
+        "name": "Acid",
+        "type": "Poison",
+        "category": "Special",
+        "power": "40",
+        "accuracy": "100",
+        "maxPp": "30",
+        "hasSpecialEffect": "True",
+        "specialEffectString": "acid"
+    },
+    {
+        "name": "Acid Armor",
+        "type": "Poison",
+        "category": "Status",
+        "power": "0",
+        "accuracy": "100",
+        "maxPp": "20",
+        "hasSpecialEffect": "True",
+        "specialEffectString": "acidarmor"
+    },
+    {
+        "name": "Agility",
+        "type": "Psychic",
+        "category": "Status",
+        "power": "0",
+        "accuracy": "100",
+        "maxPp": "30",
+        "hasSpecialEffect": "True",
+        "specialEffectString": "agility"
+    },
+    {
+        "name": "Amnesia",
+        "type": "Psychic",
+        "category": "Status",
+        "power": "0",
+        "accuracy": "100",
+        "maxPp": "20",
+        "hasSpecialEffect": "False",
+        "specialEffectString": ""
+    },
+    {
+        "name": "Aurora Beam",
+        "type": "Ice",
+        "category": "Special",
+        "power": "65",
+        "accuracy": "100",
+        "maxPp": "20",
+        "hasSpecialEffect": "True",
+        "specialEffectString": "aurorabeam"
+    },
+    {
+        "name": "Barrage",
+        "type": "Normal",
+        "category": "Physical",
+        "power": "15",
+        "accuracy": "85",
+        "maxPp": "20",
+        "hasSpecialEffect": "True",
+        "specialEffectString": "barrage"
+    },
+    {
+        "name": "Barrier",
+        "type": "Normal",
+        "category": "Status",
+        "power": "0",
+        "accuracy": "100",
+        "maxPp": "20",
+        "hasSpecialEffect": "True",
+        "specialEffectString": "barrier"
+    },
+    {
+        "name": "Bite",
+        "type": "Dark",
+        "category": "Physical",
+        "power": "60",
+        "accuracy": "100",
+        "maxPp": "25",
+        "hasSpecialEffect": "True",
+        "specialEffectString": "bite"
+    },
+    {
+        "name": "Blizzard",
+        "type": "Ice",
+        "category": "Special",
+        "power": "110",
+        "accuracy": "70",
+        "maxPp": "5",
+        "hasSpecialEffect": "True",
+        "specialEffectString": "blizzard"
+    },
+    {
+        "name": "Body Slam",
+        "type": "Normal",
+        "category": "Physical",
+        "power": "85",
+        "accuracy": "100",
+        "maxPp": "15",
+        "hasSpecialEffect": "True",
+        "specialEffectString": "bodyslam"
+    }
+
+    
+]
